@@ -1,4 +1,4 @@
-# Steganography Techniques and Tools in Cybersecurity
+# Steganography Techniques
 
 Welcome to the Steganography course, exploring techniques and tools for covert communication in cybersecurity.
 
